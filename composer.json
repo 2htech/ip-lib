@@ -1,5 +1,5 @@
 {
-    "name": "mlocati/ip-lib",
+    "name": "2htech/ip-lib",
     "type": "library",
     "description": "Handle IPv4, IPv6 addresses and ranges",
     "keywords": [
